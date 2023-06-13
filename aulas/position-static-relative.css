@@ -1,0 +1,27 @@
+.quadro{
+    border: solid 1px black;
+    width: 1000px;
+    height: 800px;
+}
+
+.quadrado{
+    border: solid 1px black;
+    width: 200px;
+    height: 200px;
+}
+
+.quadrado-aqua{
+    background-color: aqua; 
+}
+
+.quadrado-roxo{
+    background-color: blueviolet;
+    position: relative;
+    top: 400px;
+    left: 600px;
+
+}
+
+.quadro-aquamarine{
+    background-color: aquamarine;
+}
